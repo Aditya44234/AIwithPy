@@ -1,1 +1,1 @@
-<h1>Let's Dive into AI.</h1>
+<h1>Let's Dive into AI 🧠.</h1>
